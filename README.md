@@ -6,3 +6,4 @@ fruits
     * pear
     * orange
     * banana
+    * peach
