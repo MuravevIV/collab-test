@@ -7,3 +7,4 @@ fruits
     * orange
     * banana
     * peach
+    * avocado
