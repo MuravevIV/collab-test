@@ -3,7 +3,6 @@
 fruits
 
     * apple
-    * pear
     * orange
     * banana
     * peach
